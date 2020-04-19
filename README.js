@@ -1,2 +1,0 @@
-# ifelse
-tugas 2
